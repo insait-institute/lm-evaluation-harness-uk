@@ -1,0 +1,3 @@
+include: arc_easy_ua.yaml
+task: arc_challenge-ua
+dataset_path: INSAIT-Institute/arc-challenge_ukr
